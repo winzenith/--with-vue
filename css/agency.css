@@ -517,7 +517,8 @@ ul.social-buttons {
     outline: none;
     background-color: #222222; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+    background-color: #a9271a;
+    }
 
 .text-primary {
   color: #fed136 !important; }
@@ -578,7 +579,7 @@ ul.social-buttons {
     background-color: #fec503; }
   .btn-xl:hover {
     color: white;
-    border-color: rgba(41, 51, 62, 0.61);
+    border-color: rgba(41, 51, 62, 0.61); 
     background-color: rgba(152, 9, 9, 0.37);
   }
   .btn-xl.active, .btn-xl:active,
