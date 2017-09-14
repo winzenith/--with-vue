@@ -568,8 +568,9 @@ ul.social-buttons {
   padding: 20px 40px;
   border-radius: 3px;
   color: white;
-  border-color: #FFFFFF;
-  background-color: rgba(10, 10, 10, 0.38);
+  border-color: rgba(41, 51, 62, 0.61);
+  border-width: 3px;
+  background-color: rgba(152, 9, 9, 0.37);
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase; }
   .btn-xl.focus, .btn-xl:focus {
